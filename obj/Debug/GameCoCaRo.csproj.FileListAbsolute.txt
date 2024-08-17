@@ -1,0 +1,10 @@
+D:\code\Lap trinh desktop\GameCoCaRo\bin\Debug\GameCoCaRo.exe.config
+D:\code\Lap trinh desktop\GameCoCaRo\bin\Debug\GameCoCaRo.exe
+D:\code\Lap trinh desktop\GameCoCaRo\bin\Debug\GameCoCaRo.pdb
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.AssemblyReference.cache
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.Form1.resources
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.Properties.Resources.resources
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.GenerateResource.cache
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.CoreCompileInputs.cache
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.exe
+D:\code\Lap trinh desktop\GameCoCaRo\obj\Debug\GameCoCaRo.pdb
